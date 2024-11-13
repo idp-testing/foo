@@ -1,0 +1,2 @@
+# foo
+Generated Repository
